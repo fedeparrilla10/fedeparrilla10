@@ -21,7 +21,7 @@
 
 ### 📊 My GitHub Stats
 
-![Contributions](https://ghchart.rshb.dev/fedeparrilla10)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fedeparrilla10)](https://github.com/fedeparrilla10/github-readme-activity-graph)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedeparrilla10&layout=compact&theme=radical)
 
