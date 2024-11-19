@@ -21,7 +21,7 @@
 
 ### 📊 My GitHub Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=fedeparrilla10&show_icons=true&theme=radical)
+![Contributions](https://ghchart.rshb.dev/fedeparrilla10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedeparrilla10&layout=compact&theme=radical)
 
