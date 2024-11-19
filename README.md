@@ -6,6 +6,23 @@
 
 ---
 
+### ✨ Tech Stack
+
+#### **Frontend**  
+- 🌐 `HTML`, `CSS`, `JavaScript`, `TypeScript`  
+- ⚛️ `React`, `Next.js`, `Astro`, `Angular`  
+- 🎨 `MUI`, `TailwindCSS`
+
+#### **Backend**  
+- 🐘 `PHP`, `Laravel`  
+- 🗄️ `MySQL`
+
+#### **Tools & Platforms**  
+- 🧰 `Git`, `GitHub`, `GitHub Actions`  
+- ☁️ `AWS`
+
+---
+
 ### 📊 My GitHub Stats
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=fedeparrilla10&show_icons=true&theme=radical)
