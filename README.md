@@ -1,5 +1,7 @@
 # 👋 Hi! I'm Fede Parrilla
 
+<img src="https://avatars.githubusercontent.com/u/118925682?v=4" alt="Mi foto" style="border-radius: 50%; width: 150px; height: 150px;">
+
 ### 💻 Fullstack Developer
 - 🌍 **Based in:** Helsinki, Finland  
 - 🔭 Currently working on projects with **React**, **Next.js**, **Astro**, **Laravel**
