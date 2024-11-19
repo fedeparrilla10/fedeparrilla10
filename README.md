@@ -33,4 +33,4 @@
 
 ### 🔗 Contact
 - 💼 [LinkedIn](https://linkedin.com/in/fedeparrilla)
-- ✉️ **Email:** fedeparrilla.dev@gmail.com
+- ✉️ fedeparrilla.dev@gmail.com
