@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Fede Parrilla
 
-### 💻 Frontend Developer
+### 💻 Full Stack Developer
 - 🌍 **Based in:** Helsinki, Finland  
 - 🔭 Currently working on projects with **React**, **Next.js**, **Astro**, **Laravel**
 
