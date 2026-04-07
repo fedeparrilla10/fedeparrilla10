@@ -35,12 +35,6 @@ AI-assisted development (Claude Code, GitHub Copilot)
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedeparrilla10&layout=compact&theme=radical)
-
----
-
 ## 🔗 Contact
 
 - 💼 https://linkedin.com/in/fedeparrilla  
