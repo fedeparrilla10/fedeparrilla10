@@ -1,30 +1,47 @@
-# 👋 Hi! I'm Fede Parrilla
+# 👋 Hi, I'm Fede Parrilla
 
-### 💻 Full Stack Developer
-- 🌍 **Based in:** Helsinki, Finland  
-- 🔭 Currently working on projects with **React**, **Next.js**, **Astro**, **Laravel**
+## 💻 Software Developer
 
----
-
-### ✨ Tech Stack
-
-#### **Frontend**  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=Astro&logoColor=white) ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=Material-UI&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white)
-
-#### **Backend**  
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=LARAVEL) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-
-#### **Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+- 🌍 Based in Helsinki, Finland  
+- 🛠️ Working on production systems using React, Laravel, and modern web technologies  
+- ⚙️ Focused on business-critical applications, system integrations, and real-world problem solving  
 
 ---
 
-### 📊 My GitHub Stats
+## 🧠 What I do
+
+I build and maintain production web applications, working across frontend and backend.
+
+My work focuses on:
+
+- Designing and implementing business logic for real-world systems  
+- Integrating external services (ERP, APIs, scraping systems)  
+- Improving system reliability and handling data consistency across multiple sources  
+- Working closely with stakeholders to turn business needs into practical technical solutions  
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend  
+React · Next.js · Astro · TypeScript · JavaScript · HTML · CSS · Tailwind · MUI  
+
+### Backend  
+PHP · Laravel · Node.js · MySQL  
+
+### Tools & Workflow  
+Git · GitHub · CI/CD workflows  
+AI-assisted development (Claude Code, GitHub Copilot)  
+
+---
+
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedeparrilla10&layout=compact&theme=radical)
 
 ---
 
-### 🔗 Contact
-- 💼 [LinkedIn](https://linkedin.com/in/fedeparrilla)
-- ✉️ fedeparrilla.dev@gmail.com
+## 🔗 Contact
+
+- 💼 https://linkedin.com/in/fedeparrilla  
+- ✉️ fedeparrilla.dev@gmail.com  
